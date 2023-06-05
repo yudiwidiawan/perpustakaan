@@ -1,0 +1,24 @@
+{
+    "properties": [
+        {
+            "name": "default.admin.username",
+            "type": "java.lang.String",
+            "description": "A default admin username"
+        },
+        {
+            "name": "default.admin.password",
+            "type": "java.lang.String",
+            "description": "A default admin password"
+        },
+        {
+            "name": "default.admin.firstname",
+            "type": "java.lang.String",
+            "description": "A default admin firstname"
+        },
+        {
+            "name": "default.admin.lastname",
+            "type": "java.lang.String",
+            "description": "A default admin lastname"
+        }
+    ]
+}
